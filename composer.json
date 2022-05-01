@@ -1,0 +1,14 @@
+{
+    "name": "walumbe/framework",
+    "autoload": {
+        "psr-4": {
+            "Walumbe\\Framework\\": "src/"
+        }
+    },
+    "autoload": {
+        "psr-4": {
+            "app\\":"./"
+        }
+    },
+    "require": {}
+}
