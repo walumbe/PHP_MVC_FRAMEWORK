@@ -29,9 +29,8 @@ use app\core\Request;
     {
         
         $body = $request->getBody();
-
+ 
         var_dump($body);
-        exit;
         return 'handling submitted data';
     }
  }
